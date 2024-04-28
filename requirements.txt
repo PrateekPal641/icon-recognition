@@ -69,7 +69,6 @@ multidict==6.0.5
 mypy-extensions==1.0.0
 networkx==3.3
 numpy==1.25.2
-onnxruntime==1.15.1
 openai==1.23.6
 opencv-contrib-python-headless
 orjson==3.10.1
