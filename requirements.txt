@@ -72,6 +72,7 @@ numpy==1.25.2
 onnxruntime==1.15.1
 openai==1.23.6
 opencv-python==4.8.0.76
+opencv-contrib-python
 opencv-python-headless==4.9.0.80
 orjson==3.10.1
 packaging==23.2
