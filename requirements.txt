@@ -73,7 +73,7 @@ onnxruntime==1.15.1
 openai==1.23.6
 opencv-contrib-python-headless
 orjson==3.10.1
-onnxruntime-gpu==1.12
+onnxruntime-gpu
 packaging==23.2
 pandas==2.2.2
 pendulum==3.0.0
